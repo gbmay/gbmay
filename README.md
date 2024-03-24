@@ -17,7 +17,7 @@
 </p>
 
 ### About me:
-- ☕️ 19 yould / BR
+- ☕️ 19 years / BR
 - 💻 Backend / Game Development.
 - 🌱 Currently learning and exploring new technologies.
 
