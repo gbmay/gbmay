@@ -15,7 +15,7 @@
 ### About me:
 - ☕️ 19 years / BR
 - 💻 Backend dev
-- 🌱 Currently learning and exploring new technologies.
+- 🌱 Exploring new technologies.
 
 ### Technologies i'm passionate about:
 <div style="display: inline_block">
