@@ -2,7 +2,9 @@
    Hello! Welcome to May's Github <img src= "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width= "25px"> </img>
 </h2>
 
-#### Hey! I'm a back-end and game developer with a solid foundation in game development technology and creativity. I try to combine the best of both worlds to create engaging and memorable projects.
+<h4 align= "center"> 
+   Hey! I'm a back-end and game developer with a solid foundation in game development technology and creativity. I try to combine the best of both worlds to create engaging and memorable projects.
+</h4>
 <p align= "center"><br>
    <a href="mailto:iidealmay@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -14,7 +16,7 @@
 
 ### About me:
 - ☕️ 19 years / BR
-- 💻 Backend dev
+- 💻 Backend Dev
 - 🌱 Exploring new technologies.
 
 ### Technologies i'm passionate about:
