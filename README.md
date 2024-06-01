@@ -28,7 +28,6 @@
    <img align="center" alt="Dotnet" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
    <img align="center" alt="Unity" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
    <img align="center" alt="Godot" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg">
-   <img align="center" alt="Php" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 </div>
 
 ##
