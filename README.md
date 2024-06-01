@@ -15,8 +15,9 @@
 </p>
 
 ### About me:
-- ☕️ 19 years / BR
 - 💻 Backend Dev
+- ☕️ 19 years / BR
+- 🌎 Study English and French
 - 🌱 Exploring new technologies.
 
 ### Technologies i'm passionate about:
